@@ -2,9 +2,9 @@
 using UnityEngine;
 using UnityEngine.AI;
 
-public class EnemyAiTutorial : MonoBehaviour
+public class EnemyAi : MonoBehaviour
 {
-    public static EnemyAiTutorial Instane;
+    public static EnemyAi Instane;
     public NavMeshAgent agent;
 
     public Transform player;

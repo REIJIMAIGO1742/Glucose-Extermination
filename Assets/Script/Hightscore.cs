@@ -12,10 +12,6 @@ public class Hightscore : MonoBehaviour
     int H;
     int S;
 
-    private void Start()
-    {
-        
-    }
     private void Awake()
     {
         

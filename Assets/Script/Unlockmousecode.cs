@@ -10,12 +10,6 @@ public class Unlockmousecode : MonoBehaviour
         Unlockmouse();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void Unlockmouse()
     {
         Cursor.lockState = CursorLockMode.None;
